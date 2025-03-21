@@ -1,6 +1,6 @@
-# gee_operationalization_demo
+# GEE Operationalization Demo
 
-Demonstration of how to automate a process with Google Earth Engine and other Google Cloud services
+A demonstration of how to automate a process with Google Earth Engine and other Google Cloud services
 
 | Step | Notebook |
 |------|----------|
